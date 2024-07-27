@@ -20,8 +20,8 @@ yarn add @neosjs/template
 
 <!-- Badges -->
 
-[npm-version-image]: https://img.shields.io/npm/v/@neosjs/template?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-image-month]: https://img.shields.io/npm/dm/@neosjs/template?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-image-week]: https://img.shields.io/npm/dw/@neosjs/template?style=flatt&colorA=080f12&colorB=1fa669
-[license-image]: https://img.shields.io/npm/l/@neosjs/template?style=flat&colorA=080f12&colorB=1fa669
-[eslint-config]: https://img.shields.io/badge/NeosJS-template-1fa669?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-image]: https://img.shields.io/npm/v/@neosjs/eslint-config?style=flat&colorA=2d333b&colorB=1fa669
+[npm-downloads-image-week]: https://img.shields.io/npm/dw/@neosjs/eslint-config?style=flatt&colorA=2d333b&colorB=1fa669
+[npm-downloads-image-month]: https://img.shields.io/npm/dm/@neosjs/eslint-config?style=flat&colorA=2d333b&colorB=1fa669
+[license-image]: https://img.shields.io/npm/l/@neosjs/eslint-config?style=flat&colorA=2d333b&colorB=1fa669
+[eslint-config]: https://img.shields.io/badge/NeosJS-eslint--config-1fa669?style=flat&colorA=2d333b&colorB=1fa669
