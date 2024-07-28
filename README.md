@@ -16,7 +16,7 @@ yarn add @neosjs/template
 
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [NeosJS](https://docs.neosjs.com)
+[MIT](./LICENSE) License © 2021-PRESENT [NeosJS](https://docs.neosjs.com)
 
 <!-- Badges -->
 
