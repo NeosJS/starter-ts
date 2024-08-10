@@ -16,6 +16,9 @@ export default defineBuildConfig(<BuildConfig>{
   entries: [
     'src/index'
   ],
+  alias: { // 别名配置
+    '@': './src'
+  },
   declaration: true,
   clean: true,
   rollup: {
@@ -34,7 +37,7 @@ export default defineBuildConfig(<BuildConfig>{
   },
   replace: { // 替换配置
     __VERSION__: version,
-    __BUILD_TIME__: String(+new Date())
+    __RELEASE_TIME__: String(+new Date())
   },
   // externals: [''],
   // peerDependencies: [''],
