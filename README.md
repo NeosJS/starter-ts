@@ -1,6 +1,6 @@
 # @neosjs/template
 
-![Npm Version][npm-version-image] ![Npm Week Downloads][npm-downloads-image-week] ![Npm Month Downloads][npm-downloads-image-month] ![Minzip][minzip] ![License][license-image] ![Eslint Config][eslint-config] ![Githu Ci Lint][githu-ci-lint]
+![Npm Version][npm-version-image] ![Npm Week Downloads][npm-downloads-image-week] ![Npm Month Downloads][npm-downloads-image-month] ![Minzip][minzip] ![License][license-image] ![Eslint Config][eslint-config] ![Githu Ci][githu-ci]
 
 _description_
 
@@ -26,4 +26,4 @@ yarn add @neosjs/template
 [license-image]: https://img.shields.io/npm/l/@neosjs/eslint-config?style=flat&colorA=2d333b&colorB=1fa669
 [minzip]: https://img.shields.io/bundlephobia/minzip/%40neosjs%2Fweb-worker?style=flat&colorA=2d333b&colorB=1fa669
 [eslint-config]: https://img.shields.io/badge/NeosJS-eslint--config-1fa669?style=flat&colorA=2d333b&colorB=1fa669
-[githu-ci-lint]: https://github.com/neosjs/starter-ts/workflows/Lint/badge.svg
+[githu-ci]: https://github.com/neosjs/starter-ts/workflows/Ci/badge.svg
