@@ -2,7 +2,7 @@
   "default": true,
   "MD001": false,
   "MD003": false,
-  "MD007": { "indent": 2 },
+  "MD007": false,
   "MD013": false,
   "MD018": false,
   "MD022": false,
