@@ -2,7 +2,7 @@
   "name": "@neosjs/template",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@9.7.0",
+  "packageManager": "pnpm@9.9.0",
   "description": "_description_",
   "author": "听着情歌流泪",
   "license": "MIT",
@@ -49,24 +49,17 @@
     "prepare": "simple-git-hooks"
   },
   "devDependencies": {
-    "@neosjs/eslint-config": "^1.2.4",
-    "@types/node": "^22.4.0",
+    "@neosjs/eslint-config": "latest",
+    "@types/node": "^22.5.4",
     "eslint": "^9.9.0",
     "eslint-plugin-format": "^0.1.2",
     "esno": "^4.7.0",
-    "lint-staged": "^15.2.9",
-    "pnpm": "^9.7.1",
+    "lint-staged": "^15.2.10",
+    "pnpm": "^9.9.0",
     "simple-git-hooks": "^2.11.1",
     "typescript": "^5.5.4",
     "unbuild": "^2.0.0",
     "vitest": "^2.0.5"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "eslint"
-      ]
-    }
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
