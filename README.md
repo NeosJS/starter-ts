@@ -1,4 +1,4 @@
-# @neosjs/template
+# @neosjs/ts-template
 
 ![Npm Version][npm-version-image] ![Npm Week Downloads][npm-downloads-image-week] ![Npm Month Downloads][npm-downloads-image-month] ![Minzip][minzip] ![License][license-image] ![Eslint Config][eslint-config] ![Githu Ci][githu-ci]
 
