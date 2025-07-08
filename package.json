@@ -1,7 +1,7 @@
 {
   "name": "release-test",
   "type": "module",
-  "version": "0.0.21",
+  "version": "0.0.23",
   "private": false,
   "packageManager": "pnpm@10.7.1",
   "description": "release-test",
