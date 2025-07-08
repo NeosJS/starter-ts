@@ -3,6 +3,8 @@
 此变更日志由 `@neosjs/release` 自动更新.
 
 
+## [0.0.36](https://github.com/NeosJS/starter-ts/compare/v0.0.35...v0.0.36) (2025-07-08)
+
 ## [0.0.35](https://github.com/NeosJS/starter-ts/compare/v0.0.34...v0.0.35) (2025-07-08)
 
 ## [0.0.34](https://github.com/NeosJS/starter-ts/compare/v0.0.33...v0.0.34) (2025-07-08)
