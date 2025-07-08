@@ -13,7 +13,7 @@ export default defineConfig({
   },
   git: {
     commitMessage: 'chore: release v${version}',
-    requireCleanWorkingDir: false,
+    requireCleanWorkingDir: true,
     commitsPath: '.',
     push: true,
     requireCommits: false,
