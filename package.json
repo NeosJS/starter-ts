@@ -1,0 +1,25 @@
+{
+  "name": "release-test",
+  "type": "module",
+  "version": "0.0.0",
+  "private": false,
+  "packageManager": "pnpm@10.7.1",
+  "description": "release-test",
+  "engines": {
+    "node": ">=22",
+    "pnpm": ">=10.7.1"
+  },
+  "scripts": {
+    "bootstrap": "pnpm install",
+    "lint": "eslint . --ignore-pattern .gitignore",
+    "lint:fix": "eslint . --fix --ignore-pattern .gitignore",
+    "release": "NODE_DEBUG=@neosjs/release:* release",
+    "cli": "cli"
+  },
+  "devDependencies": {
+    "@neosjs/eslint-config": "^1.3.2",
+    "eslint": "^9.30.1",
+    "eslint-plugin-format": "^1.0.1",
+    "typescript": "^5.8.3"
+  }
+}
