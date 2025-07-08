@@ -3,6 +3,12 @@
 此变更日志由 `@neosjs/release` 自动更新.
 
 
+## [0.0.27](https://github.com/NeosJS/starter-ts/compare/v0.0.25...v0.0.27) (2025-07-08)
+
+### 🐛 Bug Fixes
+
+* adsasdasd ([e170461](https://github.com/NeosJS/starter-ts/commit/e17046190c91ae456ed30cad191d2567fca09051))
+
 ## [0.0.25](https://github.com/NeosJS/starter-ts/compare/v0.0.21...v0.0.25) (2025-07-08)
 
 ### 🏡 Chores
