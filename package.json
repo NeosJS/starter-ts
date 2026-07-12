@@ -13,14 +13,9 @@
   ],
   "sideEffects": false,
   "exports": {
-    ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.cjs"
-    }
+    ".": "./dist/index.mjs",
+    "./package.json": "./package.json"
   },
-  "main": "./dist/index.mjs",
-  "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "typesVersions": {
     "*": {
@@ -38,8 +33,8 @@
     "pnpm": ">=8.10.0"
   },
   "scripts": {
-    "build": "unbuild",
-    "dev": "unbuild --stub",
+    "build": "tsdown",
+    "dev": "tsdown --watch",
     "lint": "eslint .",
     "prepublishOnly": "pnpm build",
     "release": "release && npm publish",
@@ -57,8 +52,10 @@
     "lint-staged": "^15.2.10",
     "pnpm": "^9.9.0",
     "simple-git-hooks": "^2.11.1",
-    "typescript": "^5.5.4",
-    "unbuild": "^2.0.0",
+    "tsdown": "^0.22.5",
+    "tsdown-stale-guard": "^0.1.3",
+    "typescript": "^6.0.3",
+    "unrun": "^0.3.1",
     "vitest": "^2.0.5"
   },
   "simple-git-hooks": {
